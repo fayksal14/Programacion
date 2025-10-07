@@ -19,3 +19,20 @@
 // <nombre_variable> <- <valor>
 // <nombre_variable> <- <otra_variable>
 // <nombre_variable> <- <expresion>
+
+altura <- 1.80;
+edad <- 18;
+
+// Operaciones Aritméticas
+// <nombre_varible1> + <nombre_varible2>
+// <nombre_varible1> - <nombre_varible2>
+// <nombre_varible1> * <nombre_varible2>
+// <nombre_varible1> / <nombre_varible2>
+// <nombre_varible1> % <nombre_varible2>
+
+precio1 = 1
+precio2 = 20
+
+precioFinal <- precio1 + precio2
+iva_a_pagar <- precioFinal * 0.21;
+precioTotal <- precioFinal + iva_a_pagar
