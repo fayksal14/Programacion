@@ -36,3 +36,11 @@ precio2 = 20
 precioFinal <- precio1 + precio2
 iva_a_pagar <- precioFinal * 0.21;
 precioTotal <- precioFinal + iva_a_pagar
+
+// Operaciones De Comparación
+// <nombre_varible1> > <nombre_varible2>
+// <nombre_varible1> >= <nombre_varible2>
+// <nombre_varible1> < <nombre_varible2>
+// <nombre_varible1> <= <nombre_varible2>
+// <nombre_varible1> == <nombre_varible2>
+// <nombre_varible1> != <nombre_varible2>
