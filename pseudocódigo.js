@@ -44,3 +44,30 @@ precioTotal <- precioFinal + iva_a_pagar
 // <nombre_varible1> <= <nombre_varible2>
 // <nombre_varible1> == <nombre_varible2>
 // <nombre_varible1> != <nombre_varible2>
+
+// --------------------------
+// Definir producto1, producto2 como Entero;
+// Definir resultado como Logico;
+
+producto1 <- 10;
+producto2 <- 5;
+
+resultado <- producto1 <= producto2
+// --------------------------
+
+
+// Entrada de datos
+// Leer <nombre_variable> 
+
+// Salida de información
+// Escribir <dato1>, <dato2>, ... <datoN>;
+
+// Ejemplo:
+// Calcular los metros cuadrados de nuestra tabla
+// Algoritmo AreaAula
+// Definir lado1, lado2, metro_cuadrados como Real
+// Leer lado1
+// Leer lado2
+// metro_cuadrados <- lado1 * lado2
+// Escribir metro_cuadrados
+// FinAlgoritmo
