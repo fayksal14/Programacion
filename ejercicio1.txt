@@ -1,0 +1,3 @@
+Definir nombre como Cadena;
+Leer nombre;
+Escribir "Buenas tardes, " nombre;

@@ -4,6 +4,8 @@
 // Enteros: 3, 2, 0, -1, ...
 // Reales: 3.0. -1.4, 2.345, ...
 // Caracteres: 'a', 'b', '5', ...
+// Literales cadena: Se utiliza las " para indicar una cadena de caracteres, por
+// ejemplo: “hola”, “Queipo”...
 // Lógicos: sólo pueden tener dos valores: Verdadero y Falso
 
 // Comentarios
@@ -71,3 +73,43 @@ resultado <- producto1 <= producto2
 // metro_cuadrados <- lado1 * lado2
 // Escribir metro_cuadrados
 // FinAlgoritmo
+
+
+
+// OPERACIONES BÁSICAS CON TEXTOS
+// longitud(cadena_texto)
+
+// Algoritmo
+// Definir nombre como Cadena;
+// Definir tamañonombre como Entero;
+// nombre <- "Queipo";
+// tamañoNombre <- longitud(nombre)
+// Escribir tamañoNombre;
+// FinAlgoritmo
+
+// mayuscula(cadena_texto)
+// Definir nombre, nombre_mayus como Cadena;
+// nombre <- "Queipo"
+// nombre_mayus <- mayuscula(nombre)
+// Escribir nombre_mayus; //QUEIPO
+
+// minuscula(cadena_texto)
+// subcadena(cadena, pos_ini, pos_fin)
+// nombre <- "Instituto Leopoldo Queipo"
+// instituto <- subcadena(nombre, 11, 18)
+// Escribir instituto //Leopoldo
+
+// concatenar(cadena1, cadena2)
+// nombre <- "Francisco ";
+// apellido <- "García "
+// apellido2 <- "Perez"
+
+// nombre_completo <- concatenar(nombre, apellido, apellido2)
+// Escribir nombre_completo // Francisco García Perez
+
+
+// convertirANumero(cadena)
+
+
+// convertirATexto(numero)
+
