@@ -1,0 +1,13 @@
+Definir perimetro, aréa, area, altura como Real;
+
+Escribir "Introduzca la base del triangulo";
+Leer base;
+
+Escribir "Introduzca la altura del triangulo";
+Leer altura;
+
+perimetro <- base * 3;
+area <- (base * altura) / 2;
+
+Escribir "El perimetro del triangulo es: ", perimetro;
+Escribir "El Aréa del triangulo es: ", area;
