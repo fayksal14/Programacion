@@ -1,0 +1,21 @@
+Definir dos_euros, un_euro, cincuenta_cent, veinte_cent, diez_cent Como Entero
+Definir  total como Real;
+
+Escribir "¿Cuántas monedas de 2€ tienes?"
+Leer dos_euros
+
+Escribir "¿Cuántas monedas de 1€ tienes?"
+Leer un_euro
+
+Escribir "¿Cuántas monedas de 50 céntimos tienes?"
+Leer cincuenta_cent
+
+Escribir "¿Cuántas monedas de 20 céntimos tienes?"
+Leer veinte_cent
+
+Escribir "¿Cuántas monedas de 10 céntimos tienes?"
+Leer diez_cent
+
+total <- (dos_euros * 2) + (un_euro * 1) + (cincuenta_cent * 0.5) + (veinte_cent * 0.2) + (diez_cent * 0.1)
+
+Escribir "El total de dinero es ", total;

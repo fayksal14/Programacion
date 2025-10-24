@@ -1,0 +1,10 @@
+Definir edad_actual, edad_pasada, edad_futura como Entero;
+
+Escribir "Introduzca su edad actual"
+Leer edad_actual
+
+edad_futura <- edad_actual + 10
+edad_pasada <- edad_actual - 5
+
+Escribir "Tu edad dentro de 10 años sera de: ", edad_futura
+Escribir "Hace 5 años tenias ", edad_pasada, " años" 
