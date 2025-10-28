@@ -1,0 +1,12 @@
+Definir precio, iva, precio_final como Real
+
+Escribir "Ingrese el precio del producto"
+Leer precio
+
+Escribir "Porcentaje de IVA a aplicar al producto"
+Leer iva
+
+precio_final <- precio + ( (precio * iva) / 100)
+
+
+Escribir "El precio final de producto es ", precio_final
