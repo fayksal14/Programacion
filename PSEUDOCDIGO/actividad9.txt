@@ -1,0 +1,11 @@
+Definir cant_euros, cambio_dolar, cambio_libra como Real
+
+Escribir "Introduzca la cantidad de dinero en €"
+Leer cant_euros
+
+cambio_dolar <- cant_euros * 1.10
+cambio_libra <- cant_euros * 0.85
+
+
+Escribir "El cambio en dolares es de ", cambio_dolar, "$"
+Escribir "El cambio en libras es de ", cambio_libra, "£"
