@@ -1,0 +1,9 @@
+Definir min, hora, min_restante como Entero;
+
+Escribir "Introduzca la cantidad de minutos"
+Leer min
+
+hora = min / 60
+min_restante = min % 60
+
+Escribir "Equivale a ", hora, " horas y ", min_restante, " minutos.";
